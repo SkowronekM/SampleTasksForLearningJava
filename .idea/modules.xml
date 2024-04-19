@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/UDEMY_JAVA.iml" filepath="$PROJECT_DIR$/.idea/UDEMY_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayChallenge/arrayChallenge.iml" filepath="$PROJECT_DIR$/arrayChallenge/arrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/averageChallenge/averageChallenge.iml" filepath="$PROJECT_DIR$/averageChallenge/averageChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmiChallenge/bmiChallenge.iml" filepath="$PROJECT_DIR$/bmiChallenge/bmiChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/breakChallenge/breakChallenge.iml" filepath="$PROJECT_DIR$/breakChallenge/breakChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concatChallenge/concatChallenge.iml" filepath="$PROJECT_DIR$/concatChallenge/concatChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/depositChallenge/depositChallenge.iml" filepath="$PROJECT_DIR$/depositChallenge/depositChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forChallenge/forChallenge.iml" filepath="$PROJECT_DIR$/forChallenge/forChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forEachChallenge/forEachChallenge.iml" filepath="$PROJECT_DIR$/forEachChallenge/forEachChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifChallenge/ifChallenge.iml" filepath="$PROJECT_DIR$/ifChallenge/ifChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infiniteLoopChallenge/infiniteLoopChallenge.iml" filepath="$PROJECT_DIR$/infiniteLoopChallenge/infiniteLoopChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java001/java001.iml" filepath="$PROJECT_DIR$/java001/java001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringBuilderChallenge/stringBuilderChallenge.iml" filepath="$PROJECT_DIR$/stringBuilderChallenge/stringBuilderChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringChallenge/stringChallenge.iml" filepath="$PROJECT_DIR$/stringChallenge/stringChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringMethodsChallenge/stringMethodsChallenge.iml" filepath="$PROJECT_DIR$/stringMethodsChallenge/stringMethodsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchChallenge/switchChallenge.iml" filepath="$PROJECT_DIR$/switchChallenge/switchChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ternaryChallenge/ternaryChallenge.iml" filepath="$PROJECT_DIR$/ternaryChallenge/ternaryChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variablesChallenge/variablesChallenge.iml" filepath="$PROJECT_DIR$/variablesChallenge/variablesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whileChallenge/whileChallenge.iml" filepath="$PROJECT_DIR$/whileChallenge/whileChallenge.iml" />
+    </modules>
+  </component>
+</project>
